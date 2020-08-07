@@ -64,4 +64,4 @@ If you use vscode you may use this extension which shows test in vscode itself.
 
 [Getting started on ubuntu](https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/)
 
-[Google Mock (I'll cover this in the future))](https://github.com/google/googletest/blob/master/googlemock/README.md)
+[Google Mock (I'll cover this in the future)](https://github.com/google/googletest/blob/master/googlemock/README.md)
